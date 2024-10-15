@@ -1,0 +1,31 @@
+{
+	"storyName": "Funny Daddy Demon",
+	"difficulties": "twist",
+	"pack": "Story",
+	"weekBackground": "week1",
+	"hideFreeplay": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": "week1",
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Nightfall",
+			"kids-menu",
+			[
+				196,
+				93,
+				195
+			],
+			[
+				196,
+				166,
+				48
+			],
+			[
+				190
+			]
+		]
+	],
+	"weekName": "Week 1"
+}

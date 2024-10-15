@@ -1,0 +1,65 @@
+{
+	"storyName": "Funny Daddy Demon",
+	"difficulties": "",
+	"pack": "Story",
+	"weekBackground": "week1",
+	"hideFreeplay": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": "week1",
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Reboop",
+			"sagu-menu",
+			[
+				196,
+				93,
+				195
+			],
+			[
+				196,
+				166,
+				48
+			],
+			[
+				110
+			]
+		],
+		[
+			"Fresher",
+			"sagu-menu",
+			[
+				196,
+				93,
+				195
+			],
+			[
+				196,
+				166,
+				48
+			],
+			[
+				120
+			]
+		],
+		[
+			"Rap King",
+			"sagu-menu",
+			[
+				173,
+				74,
+				151
+			],
+			[
+				196,
+				126,
+				48
+			],
+			[
+				190
+			]
+		]
+	],
+	"weekName": "Week 1"
+}
